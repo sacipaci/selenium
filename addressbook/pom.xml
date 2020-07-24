@@ -3,7 +3,7 @@
   <groupId>skproj</groupId>
   <artifactId>addressbook</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-<name>addbook</name>
+<name>testng_new</name>
    <dependencies>
   <dependency>
    <groupId>org.seleniumhq.selenium</groupId>
